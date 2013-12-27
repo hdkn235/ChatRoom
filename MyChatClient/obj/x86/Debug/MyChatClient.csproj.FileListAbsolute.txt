@@ -1,0 +1,9 @@
+E:\Projects\聊天室程序\MyChatClient\bin\Debug\MyChatClient.exe
+E:\Projects\聊天室程序\MyChatClient\bin\Debug\MyChatClient.pdb
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\MyChatClient.Properties.Resources.resources
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\MyChatClient.exe
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\MyChatClient.pdb
+E:\Projects\聊天室程序\MyChatClient\obj\x86\Debug\MyChatClient.FrmClientMain.resources

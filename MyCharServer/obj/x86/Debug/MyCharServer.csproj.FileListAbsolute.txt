@@ -1,0 +1,9 @@
+E:\Projects\聊天室程序\MyCharServer\bin\Debug\MyCharServer.exe
+E:\Projects\聊天室程序\MyCharServer\bin\Debug\MyCharServer.pdb
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\MyCharServer.Properties.Resources.resources
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\MyCharServer.exe
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\MyCharServer.pdb
+E:\Projects\聊天室程序\MyCharServer\obj\x86\Debug\MyCharServer.FrmMain.resources
